@@ -4,8 +4,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=ilyluxa" alt="ilyluxa" /> 
 
-<br />
-
 ## I'm a Freshman and a Developer!
 - 🎉 I'm currently working on my discord.py bot [Athena](https://discord.ly/athena-1350)
 - ✨ I'm currently trying to improve my Js, and HTML skills

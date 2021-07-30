@@ -36,8 +36,6 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=ilyluxa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <br />
-<br />
-<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ily&layout=compact)](https://github.com/ily/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyluxa&layout=compact)](https://github.com/ilyluxa/github-readme-stats)
 

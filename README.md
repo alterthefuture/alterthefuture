@@ -30,11 +30,10 @@
 <br />
 <br />
 
-You are Visitor number:
+### You are Visitor number:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ilyluxa)
 
-<br />
 <br />
 
 <img src = "https://github-readme-stats.vercel.app/api?username=ilyluxa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">

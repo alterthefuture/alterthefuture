@@ -37,5 +37,5 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyluxa&layout=compact)](https://github.com/ilyluxa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyLuxa&layout=compact)](https://github.com/ilyLuxa/github-readme-stats)
 

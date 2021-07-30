@@ -1,4 +1,4 @@
-### Hi there, I'm [Luxa](https://discords.com/bio/p/xqi)
+### Hi there, I'm [Luxa](https://discords.com/bio/p/luxa)
 
 ## I'm a Freshman and a Developer!
 - 🎉 I'm currently working on my discord.py bot [Athena](https://discord.ly/athena-1350)
@@ -11,7 +11,7 @@
 
 [<img align="left" alt="Luxa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC3P9YnpZz8CuaHNuzPss13g)
 [<img align="left" alt="Luxa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ilyLuxaa)
-[<img align="left" alt="Luxa | Discord" width="22px" src="https://github.com/ilyLuxa/icon/blob/main/download.png" />](https://discords.com/bio/p/xqi)
+[<img align="left" alt="Luxa | Discord" width="22px" src="https://github.com/ilyLuxa/icon/blob/main/download.png" />](https://discords.com/bio/p/luxa)
 
 <br />
 

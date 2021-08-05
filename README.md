@@ -4,7 +4,7 @@
 
 ## I'm a Freshman and a Developer!
 - 💻 I code JavaScript, Python, Lua, C++, and HTML
-- 🎉 I'm currently working on my discord.py bot [Bowser](https://discord.ly/bowser)
+- 🎉 I'm currently working on my discord.py bot [Bowser](https://discord.ly/bowser) and [Athena](https://discord.ly/athena-1350)
 - ✨ I'm currently trying to improve my Js, and HTML skills
 - 🙌 I'm looking to collorabate with more developers
 - 📢 2021 Goals: Make more Open Source projects for people

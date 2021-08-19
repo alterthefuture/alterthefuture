@@ -1,7 +1,5 @@
 ### Hi there, I'm [false(Luxa)](https://discords.com/bio/p/luxa) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 
-<img src="https://komarev.com/ghpvc/?username=ilyLuxa" alt="ilyluxa" /> 
-
 ## I'm a Freshman and a Developer!
 - 💻 I code JavaScript, Python, Lua, C++, and HTML
 - 🎉 I'm currently working on my discord.py bot [Bowser](https://discord.ly/bowser) and [Lockdown](https://discord.ly/lockdown-9405)

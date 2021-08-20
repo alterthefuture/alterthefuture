@@ -8,9 +8,9 @@
 - 📢 2021 Goals: Make more Open Source projects for people
 - ⚡ Fun fact: I love to play guitar and listen to music
 
-##Support me
-- Paypal: paypal.me/apathylmao
-- Cashapp: $apathylmao
+## Support me
+- 🚀 Paypal: paypal.me/apathylmao
+- 💖 Cashapp: $apathylmao
 
 ### Connect with me:
 

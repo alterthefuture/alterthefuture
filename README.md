@@ -36,9 +36,9 @@
 <br />
 <br />
 
-<a href="https://github.com/alteryourfuture/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alteryourfuture&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<a href="https://github.com/alterthefuture/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alterthefuture&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </a>
 <a href="https://github.com/CatNinja0001/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alteryourfuture&layout=compact)](https://github.com/alteryourfuture/github-readme-stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alterthefuture&layout=compact)](https://github.com/alterthefuture/github-readme-stats"/>
 </a>

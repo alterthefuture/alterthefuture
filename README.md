@@ -1,4 +1,4 @@
-### Hi there, I'm [CatNinja](https://discords.com/bio/p/luxa) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
+### Hi there, I'm [alter](https://discords.com/bio/p/luxa) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 
 ## I'm a Freshman and a Developer!
 - 💻 I code JavaScript, Python, Lua, C++, and HTML
@@ -14,9 +14,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Luxa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC3P9YnpZz8CuaHNuzPss13g)
-[<img align="left" alt="Luxa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ilyLuxaa)
-[<img align="left" alt="Luxa | Discord" width="22px" src="https://github.com/ilyLuxa/icon/blob/main/download.png" />](https://discords.com/bio/p/luxa)
+[<img align="left" alt="alter | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC3P9YnpZz8CuaHNuzPss13g)
+[<img align="left" alt="alter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ilyLuxaa)
+[<img align="left" alt="alter | Discord" width="22px" src="https://github.com/ilyLuxa/icon/blob/main/download.png" />](https://discords.com/bio/p/luxa)
 
 <br />
 
@@ -36,9 +36,9 @@
 <br />
 <br />
 
-<a href="https://github.com/CatNinja0001/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CatNinja0001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<a href="https://github.com/alteryourfuture/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alteryourfuture&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </a>
 <a href="https://github.com/CatNinja0001/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatNinja0001&layout=compact)](https://github.com/CatNinja0001/github-readme-stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alteryourfuture&layout=compact)](https://github.com/alteryourfuture/github-readme-stats"/>
 </a>

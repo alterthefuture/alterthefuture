@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to play guitar and listen to music
 
 ## Support me
-- 🌠 Development Server: https://discord.gg/Vpz8YFzZyF
+- 🌠 Development Server: [Discord](https://discord.gg/Vpz8YFzZyF)
 - 🚀 Paypal: paypal.me/apathylmao
 - 💖 Cashapp: $apathylmao
 

@@ -8,11 +8,6 @@
 - 📢 2021 Goals: Make more Open Source projects for people
 - ⚡ Fun fact: I love to play guitar and listen to music
 
-## Support me
-- 🌠 Development Server: [Discord](https://discord.gg/Vpz8YFzZyF)
-- 🚀 Paypal: paypal.me/apathylmao
-- 💖 Cashapp: $apathylmao
-
 ### Connect with me:
 
 [<img align="left" alt="alter | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC3P9YnpZz8CuaHNuzPss13g)

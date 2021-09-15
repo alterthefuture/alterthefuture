@@ -2,7 +2,7 @@
 
 ## I'm a Freshman and a Developer!
 - 💻 I code JavaScript, Python, Lua, C++, and HTML
-- 🎉 I'm currently working on my discord.py bot [Lockdown](https://discord.ly/lockdown-9405)
+- 🎉 I'm currently working on improving my bot development
 - ✨ I'm currently trying to improve my Js, and HTML skills
 - 🙌 I'm looking to collorabate with more developers
 - 📢 2021 Goals: Make more Open Source projects for people

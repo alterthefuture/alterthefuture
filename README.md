@@ -1,12 +1,12 @@
-### Hi there, I'm [apathy/Scriptz/ritz](https://discords.com/bio/p/luxa) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
+### Hi there, I'm [vps/Scriptz/ritz](https://discords.com/bio/p/luxa) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 
-## I'm a Freshman and a Developer!
+## I'm a Developer!
 - 💻 I code JavaScript, Python, Lua, C++, and HTML
 - 🎉 I'm currently working on improving my bot development
 - ✨ I'm currently trying to improve my Js, and HTML skills
 - 🙌 I'm looking to collorabate with more developers
 - 📢 2021 Goals: Make more Open Source projects for people
-- ⚡ Fun fact: I love to play guitar and listen to music
+- ⚡ Fun fact: I love to listen to music
 
 ### Connect with me:
 

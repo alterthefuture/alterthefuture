@@ -1,7 +1,7 @@
 ### Hi there, I'm apathy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 
 ## I'm a Developer!
-- 🤖 Verified bot developer
+- 🤖 Verified bot developer, add Lockdown
 - 💻 I code JavaScript, Python, Lua, C++, GO and HTML
 - 🎉 I'm currently working on improving my bot development
 - ✨ I'm currently trying to improve my Js, and HTML skills
